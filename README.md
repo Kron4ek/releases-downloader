@@ -8,7 +8,7 @@ The graphical version is very minimal and simple. You just run the program, ente
 
 #### Command-line (cli) version
 
-The command-line (cli) version is very simple as well. You need to specify a GitHub repository URL (or owner/reponame), release number and asset number. Specifying just a repository URL (or owner/reponame) will show all available releases and assets. For example:
+The command-line (cli) version is very simple as well. You need to specify a GitHub repository URL (or owner/reponame), a release number and an asset number. Specifying just a repository URL (or owner/reponame) will show all available releases and assets. For example:
 
 ```
 $ ./releases-downloader-cli_1.0_x64_Linux HansKristian-Work/vkd3d-proton
