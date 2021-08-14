@@ -38,3 +38,8 @@ And if you want the program to download it instead of just showing the link, add
 ./releases-downloader-cli_1.0_x64_Linux HansKristian-Work/vkd3d-proton 1 1 download
 Download completed successfully.
 ```
+
+## Screenshots
+
+![releases window](https://i.imgur.com/fINJazQ.png)
+![main window](https://i.imgur.com/W2Hiqh6.png)
