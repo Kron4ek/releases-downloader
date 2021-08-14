@@ -39,6 +39,8 @@ And if you want the program to download it instead of just showing the link, add
 Download completed successfully.
 ```
 
+The cli version has virtually no dependencies, the only dependency is glibc.
+
 ## Screenshots
 
 ![releases window](https://i.imgur.com/fINJazQ.png)
