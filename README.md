@@ -23,7 +23,7 @@ Available releases and assets:
 ...
 ```
 
-For example, to show a direct download link of the first asset attached to the first release, use:
+For example, to show a direct download link of the first asset attached to the first (latest) release, use:
 
 ```
 $ ./releases-downloader-cli_1.0_x64_Linux HansKristian-Work/vkd3d-proton 1 1
